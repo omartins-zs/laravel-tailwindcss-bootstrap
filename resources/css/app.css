@@ -1,3 +1,4 @@
+/* Add o Tailwind CSS nas diretivas de layers(camadas) do CSS */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
